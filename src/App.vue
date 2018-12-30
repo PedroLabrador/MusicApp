@@ -1,6 +1,6 @@
 <template lang="pug">
   #app
-    img(src='./assets/logo.png')
+    img(src='dist/logo.png')
     h1 {{ title }}
     form(v-on:submit.prevent="filterCountry")
       input(type="text" v-model="country")
