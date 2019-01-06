@@ -1,4 +1,4 @@
-# musicaoo
+# MusicApp
 
 > A Vue.js project
 
