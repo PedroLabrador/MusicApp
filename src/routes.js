@@ -3,9 +3,9 @@ import About from '@/components/About'
 import TrackDetail from '@/components/TrackDetail'
 
 const routes = [
-  { path: '/', component: Search, name: 'search' },
-  { path: '/about', component: About, name: 'about' },
-  { path: '/track/:id', component: TrackDetail, name: 'track' }
+  { path: '/MusicApp/', component: Search, name: 'search' },
+  { path: '/MusicApp/about', component: About, name: 'about' },
+  { path: '/MusicApp/track/:id', component: TrackDetail, name: 'track' }
 ]
 
 export default routes
