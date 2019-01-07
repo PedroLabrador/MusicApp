@@ -29,7 +29,7 @@
           <div class="level-left">
             <button class="level-item button is-primary" @click="selectTrack">
               <span class="icon is-small">
-                →
+                &#9654;
               </span>
             </button>
             <button class="level-item button is-warning" @click="goToTrack(track.id)">
